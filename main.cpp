@@ -1,3 +1,11 @@
+/*
+Nombre: Pedro Yazael Mercado Ruano
+Registro: 22110125
+Grupo: 2P
+Materia: POO
+Programa: Dibujar 3 figuras diferentes usando clases y objetos
+*/
+
 #include <iostream>
 #include <stdlib.h>
 #include <string.h>
